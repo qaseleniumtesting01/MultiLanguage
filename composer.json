@@ -1,0 +1,16 @@
+{
+    "name": "ws/test_data",
+    "type": "project",
+    "license": "BSD 3",
+    "authors": [
+        {
+            "name": "Muhammad Abu Elula",
+            "email": "Muhammad.abu-elula@whitesourcesoftware.com"
+        }
+    ],
+    "require": {
+        "eloquent/phony": "^4.0",
+        "tecnickcom/tcpdf": "^6.3",
+        "slim/slim": "^4.6"
+    }
+}
