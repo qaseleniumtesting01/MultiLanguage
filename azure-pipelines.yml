@@ -22,3 +22,6 @@ steps:
   inputs:
     cwd: '$(System.DefaultWorkingDirectory)'
     projectName: 'GithubScannerMultiLanguage'
+    configuration: |
+      python.resolveDependencies=False
+      html.resolveDependencies=False
