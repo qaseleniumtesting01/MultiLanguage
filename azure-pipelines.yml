@@ -25,3 +25,4 @@ steps:
     configuration: |
       python.resolveDependencies=False
       html.resolveDependencies=False
+      php.resolveDependencies=False
